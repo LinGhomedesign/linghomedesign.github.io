@@ -40,7 +40,7 @@ h5 {
 	font-weight: 700;
 }
 .btn {
-	background-color: #3bc492;
+	background-color: #8d8d8d;
 	color: #fff;
 	font-size: 13px;
 	font-weight: 600;
@@ -144,7 +144,7 @@ ul li {
 }
 .navigation a {
 	color: rgba(255, 255, 255, 0.75);
-	font-size: 13px;
+	font-size: 20px;
 	font-weight: 400;
 	margin-left: 40px;
 	letter-spacing: 3px;
@@ -190,7 +190,7 @@ ul li {
 	transition-property: transform;
 }
 .nav-toggle:before {
-	background-color: #e84545;
+	background-color: #868686;
 	-moz-transform: scale(1);
 	-ms-transform: scale(1);
 	-webkit-transform: scale(1);
@@ -201,7 +201,7 @@ ul li {
 	transition-duration: 0.3s;
 }
 .nav-toggle:after {
-	background-color: #e84545;
+	background-color: #868686;
 	-moz-transform: scale(0);
 	-ms-transform: scale(0);
 	-webkit-transform: scale(0);
@@ -212,7 +212,7 @@ ul li {
 	transition-duration: 0s;
 }
 .nav-toggle span {
-	background-color: #fff;
+	background-color: #868686;
 	bottom: auto;
 	display: inline-block;
 	height: 3px;
@@ -313,13 +313,13 @@ ul li {
 	color: #fff;
 	font-family: "Source Sans Pro";
 	font-size: 53px;
-	letter-spacing: 20px;
+	letter-spacing: 10px;
 	font-weight: 700;
 	text-transform: uppercase;
 }
 .banner-text p {
-	color: #8d8d8d;
-	font-size: 12px;
+	color: #7a7979;
+	font-size: 18px;
 	font-weight: 400;
 	letter-spacing: 3px;
 	line-height: 24px;
@@ -365,7 +365,7 @@ ul li {
 	margin-top: 30px;
 }
 .services .icon {
-	color: #e84545;
+	color: #868686;
 	font-size: 36px;
 	padding-left: 15px;
 }
@@ -498,7 +498,7 @@ ul li {
 	 Testimonials
 -------------------------------------------------------------------------------*/
 .testimonials {
-	background-color: #e84545;
+	background-color: #8b8b8b;
 	position: relative;
 	text-align: center;
 }
