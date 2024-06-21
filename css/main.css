@@ -626,7 +626,7 @@ ul li {
   }
   
 .BBB:hover:before {
-	content: "服務流程　　";
+	content: "　服務流程　";
 	font-size: 16.5px;
   }
 
@@ -645,7 +645,7 @@ ul li {
   }
   
 .DDD:hover:before {
-	content: "設計團隊　　";
+	content: "　設計團隊　　";
 	font-size: 16.5px;
   }
   
