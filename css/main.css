@@ -618,7 +618,7 @@ ul li {
 .AAA:hover:before {
 	content: "簡　介　";
 	font-size: 16.5px;
-	/* width: 100px; */
+
   }
 
 
@@ -629,7 +629,7 @@ ul li {
 .BBB:hover:before {
 	content: "　服　務　　";
 	font-size: 16.5px;
-	/* width: 100px; */
+
 
   }
 
