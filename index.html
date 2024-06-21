@@ -25,18 +25,7 @@
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 </head>
 
-<script>
-  window.onscroll = function() {
-    if(window.scrollY > 100) 
-      document.getElementById('back-top').style.display = 'flex';
 
-      if(window.scrollY < 100) 
-      document.getElementById('back-top').style.display = 'none';
-  }
-  function hide_top() {
-    document.getElementById('back-top').style.display = 'none';
-  }
-</script>
 <body>
   <a id="back-top" href="#" class="back-btn" onclick="hide_top()">top</a>
 <!-- header section -->
@@ -61,7 +50,7 @@
   <div class="container">
     <div class="col-md-10 col-md-offset-1">
       <div class="banner-text text-center">
-        <h1 class="animate__animated animate__bounce">lin g</h1>
+        <h1 id="test" class="animate__animated animate__fadeInDown" >橉居</h1>
         <p>Interior　design</p>
         <nav role="navigation"> <a href="#services" class="banner-btn"><img src="images/down-arrow.png" alt=""></a></nav>
       </div>
@@ -452,5 +441,22 @@
 <script src="js/retina.min.js"></script> 
 <script src="js/modernizr.js"></script> 
 <script src="js/main.js"></script>
+<script>
+  window.onscroll = function() {
+    if(window.scrollY > 100) 
+      document.getElementById('back-top').style.display = 'flex';
+
+      if(window.scrollY < 100) 
+      document.getElementById('back-top').style.display = 'none';
+  }
+  function hide_top() {
+    document.getElementById('back-top').style.display = 'none';
+  }
+
+  document.getElementById('test').addEventListener('animationend', () => {
+    
+    document.getElementById('test').innerText = "Lin G";
+  });
+</script>
 </body>
 </html>
