@@ -610,9 +610,7 @@ ul li {
 	height: 100%;
 }
 
-.AAA {
-	width: 100px;
-}
+
 .AAA:hover span {
 	display: none
   }
@@ -623,9 +621,7 @@ ul li {
 	/* width: 100px; */
   }
 
-.BBB {
-	width: 100px;
-}
+
 .BBB:hover span {
 	display: none
   }
