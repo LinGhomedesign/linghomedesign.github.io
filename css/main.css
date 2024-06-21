@@ -618,9 +618,8 @@ ul li {
   }
   
 .AAA:hover:before {
-	content: "　簡介　　";
+	content: "　簡　介　";
 	font-size: 16.5px;
-	text-align:left;
 	/* width: 100px; */
   }
 
@@ -632,7 +631,7 @@ ul li {
   }
   
 .BBB:hover:before {
-	content: "　　服務　　";
+	content: "　服　務　";
 	font-size: 16.5px;
 	/* width: 100px; */
 
@@ -643,7 +642,7 @@ ul li {
   }
   
 .CCC:hover:before {
-	content: "　作品　　";
+	content: "　作　品　";
 	font-size: 16.5px;
 
   }
@@ -654,7 +653,7 @@ ul li {
   }
   
 .DDD:hover:before {
-	content: "　　團隊　　";
+	content: "　團　隊　　";
 	font-size: 16.5px;
 
   }
@@ -664,7 +663,7 @@ ul li {
   }
   
 .EEE:hover:before {
-	content: "　格言　　";
+	content: "格　言　";
 	font-size: 16.5px;
 
   }
@@ -675,7 +674,7 @@ ul li {
   }
   
 .FFF:hover:before {
-	content: "　　聯繫　　";
+	content: "　聯　繫　";
 	font-size: 16.5px;
 
   }
