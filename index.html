@@ -23,8 +23,11 @@
 
 <script>
   window.onscroll = function() {
-    if(window. Y > 100) 
+    if(window.scrollY > 100) 
       document.getElementById('back-top').style.display = 'flex';
+
+      if(window.scrollY < 100) 
+      document.getElementById('back-top').style.display = 'none';
   }
   function hide_top() {
     document.getElementById('back-top').style.display = 'none';
@@ -170,7 +173,7 @@
       <div class="col-md-4 col-sm-6 services"> <span class="icon icon-trophy"></span>
         <div class="services-content">
           <h5>售後服務</h5>
-          <p>自驗收交屋後一年內，
+          <p>自驗收交屋後一年內，<br>
 提供完善的售後工程保固</p>
         </div>
       </div>
