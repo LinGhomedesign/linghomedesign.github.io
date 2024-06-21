@@ -633,7 +633,6 @@ ul li {
   
 .BBB:hover:before {
 	content: "　　服務　　";
-	text-align:left;
 	font-size: 16.5px;
 	/* width: 100px; */
 
@@ -645,7 +644,6 @@ ul li {
   
 .CCC:hover:before {
 	content: "　作品　　";
-	text-align:left;
 	font-size: 16.5px;
 
   }
@@ -657,7 +655,6 @@ ul li {
   
 .DDD:hover:before {
 	content: "　　團隊　　";
-	text-align:left;
 	font-size: 16.5px;
 
   }
@@ -668,7 +665,6 @@ ul li {
   
 .EEE:hover:before {
 	content: "　格言　　";
-	text-align:left;
 	font-size: 16.5px;
 
   }
@@ -680,7 +676,6 @@ ul li {
   
 .FFF:hover:before {
 	content: "　　聯繫　　";
-	text-align:left;
 	font-size: 16.5px;
 
   }
