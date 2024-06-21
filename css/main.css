@@ -616,7 +616,7 @@ ul li {
   }
   
 .AAA:hover:before {
-	content: "簡　介　";
+	content: "公司簡介";
 	font-size: 16.5px;
 
   }
@@ -627,7 +627,7 @@ ul li {
   }
   
 .BBB:hover:before {
-	content: "　服　務　　";
+	content: "　服務流程　";
 	font-size: 16.5px;
 
 
@@ -638,7 +638,7 @@ ul li {
   }
   
 .CCC:hover:before {
-	content: "作　品　";
+	content: "設計作品";
 	font-size: 16.5px;
 
   }
@@ -649,7 +649,7 @@ ul li {
   }
   
 .DDD:hover:before {
-	content: "　團　隊　　";
+	content: "　設計團隊　";
 	font-size: 16.5px;
 
   }
@@ -659,7 +659,7 @@ ul li {
   }
   
 .EEE:hover:before {
-	content: "格　言　";
+	content: "設計理念";
 	font-size: 16.5px;
 
   }
@@ -670,7 +670,7 @@ ul li {
   }
   
 .FFF:hover:before {
-	content: "　聯　繫　";
+	content: "聯繫我們";
 	font-size: 16.5px;
 
   }
