@@ -365,7 +365,7 @@ ul li {
 	margin-top: 30px;
 }
 .services .icon {
-	color: #868686;
+	color: #e84545;
 	font-size: 36px;
 	padding-left: 15px;
 }
@@ -384,7 +384,7 @@ ul li {
 	height: 100%;
 }
 .work .overlay {
-	background: rgba(150, 150, 150, 0.733);
+	background: rgba(232, 69, 69, 0.9);
 	height: 100%;
 	left: 0;
 	opacity: 0;
@@ -463,7 +463,7 @@ ul li {
 	font-weight: 400;
 }
 .person h5 {
-	color: #868686;
+	color: #e84545;
 	font-size: 13px;
 	font-weight: 400;
 	margin-bottom: 20px;
@@ -498,7 +498,7 @@ ul li {
 	 Testimonials
 -------------------------------------------------------------------------------*/
 .testimonials {
-	background-color: #8b8b8b;
+	background-color: #e84545;
 	position: relative;
 	text-align: center;
 }
@@ -560,7 +560,7 @@ ul li {
 	margin-bottom: 20px;
 }
 .footer p {
-	color: rgba(141, 141, 141, 0.667);
+	color: rgba(255, 255, 255, 0.25);
 }
 .footer a {
 	color: rgba(255, 255, 255, 0.50);
@@ -585,6 +585,7 @@ ul li {
 	font-size: 11px;
 	margin: 0 2px;
 }
+
 .back-btn {
 	color: #ffffff;
 	position: fixed; /* 將元素設定成固定位置，會固定在網頁畫面的某個地方 */
@@ -616,7 +617,7 @@ ul li {
   }
   
 .AAA:hover:before {
-	content: "公司簡介";
+	content: "公司簡介　";
 	font-size: 16.5px;
   }
 
@@ -625,7 +626,7 @@ ul li {
   }
   
 .BBB:hover:before {
-	content: "　服務流程　";
+	content: "服務流程　　";
 	font-size: 16.5px;
   }
 
@@ -634,7 +635,7 @@ ul li {
   }
   
 .CCC:hover:before {
-	content: "設計作品";
+	content: "設計作品　";
 	font-size: 16.5px;
   }
 
@@ -644,7 +645,7 @@ ul li {
   }
   
 .DDD:hover:before {
-	content: "　設計團隊　";
+	content: "設計團隊　　";
 	font-size: 16.5px;
   }
   
@@ -653,7 +654,7 @@ ul li {
   }
   
 .EEE:hover:before {
-	content: "設計理念";
+	content: "設計理念　";
 	font-size: 16.5px;
   }
 
@@ -663,6 +664,6 @@ ul li {
   }
   
 .FFF:hover:before {
-	content: "聯繫我們";
+	content: "聯繫我們　";
 	font-size: 16.5px;
   }
