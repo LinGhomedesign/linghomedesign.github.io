@@ -631,7 +631,7 @@ ul li {
   }
   
 .BBB:hover:before {
-	content: "　服　務　";
+	content: "　服　務　　";
 	font-size: 16.5px;
 	/* width: 100px; */
 
