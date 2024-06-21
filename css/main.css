@@ -618,7 +618,7 @@ ul li {
   }
   
 .AAA:hover:before {
-	content: "　簡　介　";
+	content: "簡　介　";
 	font-size: 16.5px;
 	/* width: 100px; */
   }
@@ -642,7 +642,7 @@ ul li {
   }
   
 .CCC:hover:before {
-	content: "　作　品　";
+	content: "作　品　";
 	font-size: 16.5px;
 
   }
